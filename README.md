@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Dron Kishor.</h1>
 <h3 align="center">A Full-Stack Developer And Designer.</h3>
 
-- 🌱 I’m currently learning **Next.Js + Tailwind**
+- 🌱 I use **Django + React**
 
 - 👨‍💻 All of my projects are available at [https://www.dronkishor.in](https://www.dronkishor.in)
 
