@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dronkishor2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b9Pl5Wpr0iMDI5e9x1LpDaBdojpFXJjZ/view?usp=drive_link](https://drive.google.com/file/d/1b9Pl5Wpr0iMDI5e9x1LpDaBdojpFXJjZ/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1b9Pl5Wpr0iMDI5e9x1LpDaBdojpFXJjZ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
